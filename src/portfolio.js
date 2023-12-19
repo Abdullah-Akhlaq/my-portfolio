@@ -86,15 +86,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Nextjs",
-      fontAwesomeClassname: "fas fa-next"
-    },
-    {
-      skillName: "RTK query",
-      fontAwesomeClassname: "fas fa-fire"
+      fontAwesomeClassname: "fas fa-js"
     },
     {
       skillName: "Redux toolkit",
-      fontAwesomeClassname: "fas fa-redux"
+      fontAwesomeClassname: "fas fa-react"
     },
 
   ],
