@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Front End Software Developer 🚀 having an experience of building different Type Website  with JavaScript / Reactjs / Nextjs  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1uhWTCv3GLJRPCB0npVu-0B7LsO7InbJ4/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1DraVeOyyrINN1kyXpT1a5Ptoj08xAfaC/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
