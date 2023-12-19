@@ -26,18 +26,18 @@ const greeting = {
     "A passionate Front End Software Developer 🚀 having an experience of building different Type Website  with JavaScript / Reactjs / Nextjs  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1O0v0w-HevmQjySi-wQmriaC8UElZbsuQ/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1uhWTCv3GLJRPCB0npVu-0B7LsO7InbJ4/view?usp=drive_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/Mliaqat",
-  linkedin: "https://www.linkedin.com/in/liaqatshehzad/",
-  gmail: "liaqattops@gmail.com",
+  github: "https://github.com/Abdullah-Akhlaq",
+  linkedin: "https://pk.linkedin.com/in/abdullah-akhlaq-3a1287197",
+  gmail: "abdullahakhlaq72@gmail.com",
   gitlab: "",
-  facebook: "https://www.facebook.com/muhammadl.liaqat/",
+  facebook: "",
   medium: "",
   stackoverflow: "",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -86,7 +86,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Nextjs",
-      fontAwesomeClassname: "fas fa-fire"
+      fontAwesomeClassname: "fas fa-next"
     },
     {
       skillName: "RTK query",
@@ -94,7 +94,7 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Redux toolkit",
-      fontAwesomeClassname: "fas fa-fire"
+      fontAwesomeClassname: "fas fa-redux"
     },
 
   ],
