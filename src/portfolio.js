@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Front End Software Developer 🚀 having an experience of building different Type Website  with JavaScript / Reactjs / Nextjs  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1DraVeOyyrINN1kyXpT1a5Ptoj08xAfaC/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1qTYAjBzLz0WIZmHyw9PlYhYX8zEwzv9l/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -86,11 +86,11 @@ https://fontawesome.com/icons?d=gallery */
     },
     {
       skillName: "Nextjs",
-      fontAwesomeClassname: "fas fa-js"
+      fontAwesomeClassname: "fa-thin fa-diagram-next"
     },
     {
       skillName: "Redux toolkit",
-      fontAwesomeClassname: "fas fa-react"
+      fontAwesomeClassname: "fab fa-react"
     },
 
   ],
@@ -104,7 +104,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Hitec University",
-      logo: require("./assets/images/numl.png"),
+      logo: require("./assets/images/hitec-logo.png"),
       subHeader: "Bachelor in Computer Science",
       duration: "August 2017 - April 2021",
       // desc: "Participated in the research of XXX and published 3 papers.",
