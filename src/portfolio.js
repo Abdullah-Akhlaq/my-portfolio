@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Front End Software Developer 🚀 having an experience of building different Type Website  with JavaScript / Reactjs / Nextjs  and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1qTYAjBzLz0WIZmHyw9PlYhYX8zEwzv9l/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1-TzTnUeS3nFzFzls1iVNJm7X2KOI1A91/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -91,8 +91,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Redux toolkit",
       fontAwesomeClassname: "fab fa-react"
-    },
-
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -104,7 +103,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Hitec University",
-      logo: require("./assets/images/hitec-logo.png"),
+      logo: require("./assets/images/hitec-logo.jpg"),
       subHeader: "Bachelor in Computer Science",
       duration: "August 2017 - April 2021",
       // desc: "Participated in the research of XXX and published 3 papers.",
@@ -142,8 +141,7 @@ const techStack = {
     {
       Stack: "Next js",
       progressPercentage: "75%"
-    },
-
+    }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
@@ -155,15 +153,16 @@ const workExperiences = {
   experience: [
     {
       role: "React JS Developer",
-      company: "I Gen Solution",
-      companylogo: require("./assets/images/igen.png"),
+      company: "Codiro Technologies",
+      companylogo: require("./assets/images/codiro.jpg"),
       date: "Jul 2021 - Apr 2022",
       bgColor: "#4E357B",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
         "Used React, JavaScript, and related tech to create dynamic web pages for a better user experience.",
         "Made reusable components, optimized for faster load times, improving user experience.",
-        "Collaborated with the backend team to integrate APIs for smooth data flow and consistency across the platform."
+        "Collaborated with the backend team to integrate APIs for smooth data flow and consistency across the platform.",
+        "Developed REST APIs to retrieve data from various end-points to provide real time valuable insights using PHP."
       ]
     },
     {
@@ -176,9 +175,14 @@ const workExperiences = {
       descBullets: [
         "Developing web apps using HTML, CSS, Material UI, JavaScript, React, and Next.js.",
         "Created user-friendly interfaces, increasing  customer engagement and satisfaction.",
-        "Collaborated with the backend team to integrate APIs for smooth data flow and consistency."
+        "Collaborated with the backend team to integrate APIs for smooth data flow and consistency.",
+        `Implemented Designs and visually aesthetic user interface. Identify issues in front-end code and 
+         rectify them to remove bugs. Ensure Front end code is able to query APIs. Created unit tests to
+         ensure code is functioning as expected`,
+        "Learned monolithic and micro-service based architecture and its implementation with node",
+        ` Developing and maintaining server-side components`
       ]
-    },
+    }
     // {
     //   role: "React / Next js Developer",
     //   company: "Super Tech",
@@ -321,7 +325,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        { name: "Certification", url: "" },
+        {name: "Certification", url: ""},
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
